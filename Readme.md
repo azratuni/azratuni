@@ -1,0 +1,17 @@
+![](https://komarev.com/ghpvc/?azratuni)
+
+<h1>Hello there!</h1>
+<h1>I'm Azra Tuni, final year CSE undergrad student at University of Asia Pacific. I'm interested in working and learning about <b>Machine Learning and Data Science</b>.</h1>
+
+- Reach me at: 
+<br><b>Gmail:</b>azratun02@gmail.com<br>
+<b>LinkedIn:</b>https://www.linkedin.com/in/azratuni/<br>
+<b>Facebook:</b>https://www.facebook.com/azratuni<br>
+
+- I have a profile on: 
+<br><b>DataCamp:</b>https://www.datacamp.com/profile/azratuni<br>
+<b>Hackerrank:</b>https://www.hackerrank.com/azratuni<br>
+<b>Kaggle:</b>https://www.kaggle.com/azratuni<br>
+
+- Trivia: 
+<br>I like reading books and watching anime in my free time. 
