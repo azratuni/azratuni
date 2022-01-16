@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?azratuni)
+![](https://komarev.com/ghpvc/?username=azratuni)
 
 <h1>Hello there!</h1>
 I'm Azra Tuni, a final year CSE undergrad student at University of Asia Pacific. I'm interested in working and learning about <b>Machine Learning and Data Science</b>.
