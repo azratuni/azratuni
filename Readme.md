@@ -15,3 +15,5 @@ I'm Azra Tuni, a final year CSE undergrad student at University of Asia Pacific.
 
 - Trivia: 
 <br>I like reading books and watching anime in my free time. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azratuni&layout=compact)]
