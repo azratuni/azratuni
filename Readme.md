@@ -12,6 +12,7 @@ I'm Azra Tuni, a final year CSE undergrad student at University of Asia Pacific.
 <br><b>DataCamp:</b> https://www.datacamp.com/profile/azratuni<br>
 <b>Hackerrank:</b> https://www.hackerrank.com/azratuni<br>
 <b>Kaggle:</b> https://www.kaggle.com/azratuni<br>
+<b>LeetCode:</b> https://leetcode.com/azratuni/<br>
 
 - Trivia: 
 <br>I like reading books and watching anime in my free time. 
