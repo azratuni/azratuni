@@ -18,4 +18,4 @@ I'm Azra Tuni, a final year CSE undergrad student at University of Asia Pacific.
 <br>I like reading books and watching anime in my free time. 
 
 - Git Stats:
-<br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azratuni&langs_count=6&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true" alt="azratuni" width="30%" height="auto"/>
+<br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azratuni&langs_count=6&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true" alt="azratuni" width="40%" height="auto"/>
